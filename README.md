@@ -50,7 +50,7 @@ https://github.com/J2EE-Secirity/angular_bootstrap_spring
 
 
 'spring-security-angular'
------------------------------------[ Spring(4.0.2) Security ]
+-----------------------------------[ Spring Security ]
 https://github.com/J2EE-Secirity/spring-security-angular
 +++++++++++++++++
 =============================================================================================================
