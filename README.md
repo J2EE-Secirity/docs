@@ -41,6 +41,22 @@ src/main/webapp/WEB-INF/spring/: 'servlet-context.xml', 'data.xml', 'security.xm
 (Конфиогурация Spring(а) выполняется полностью черех XML)
 
 
+'angular_bootstrap_spring'
+-----------------------------------[ Spring(4.0.2) Security + AngularJS ]
+https://github.com/J2EE-Secirity/angular_bootstrap_spring
++++++++++++++++++
+=============================================================================================================
+В этом случае пример секюрности-Spring(а) настроен для работы совместно с AngularJS
+
+
+'spring-security-angular'
+-----------------------------------[ Spring(4.0.2) Security + AngularJS ]
+https://github.com/J2EE-Secirity/spring-security-angular
++++++++++++++++++
+=============================================================================================================
+В этом случае имеются разные пример секюрности (basic, oauth2-vanilla, oauth2, proxy, single, spring-session)
+
+
 
 
 
