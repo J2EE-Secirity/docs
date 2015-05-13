@@ -10,6 +10,24 @@
 * `Security Patterns`: [http://www.coresecuritypatterns.com/patterns.htm](http://www.coresecuritypatterns.com/patterns.htm)
 
 
+Login Form and Authenticate users java
+======================================
+* `User Authentication (Filter/Servlet)`: [User Authentication (Filter/Servlet)](http://uaihebert.com/user-authentication-filterservlet/)
+* `http://localhost:8080/Servlet/hello`: [http://localhost:8080/Servlet/hello](http://localhost:8080/Servlet/hello)
+* `How do I use Form authentication with Tomcat?`: [How do I use Form authentication with Tomcat?](http://www.avajava.com/tutorials/lessons/how-do-i-use-form-authentication-with-tomcat.html?page=1)
+* `How do I use Form authentication with Tomcat?`: [How do I use Form authentication with Tomcat?](http://www.avajava.com/tutorials/lessons/how-do-i-use-form-authentication-with-tomcat.html?page=2)
+* `Performing user authentication in Java EE / JSF using j_security_check`: [Performing user authentication in Java EE / JSF using j_security_check](http://stackoverflow.com/questions/2206911/performing-user-authentication-in-java-ee-jsf-using-j-security-check)
+* `http://docs.oracle.com/cd/E19226-01/820-7627/bncby/index.html`: [http://docs.oracle.com/cd/E19226-01/820-7627/bncby/index.html](http://docs.oracle.com/cd/E19226-01/820-7627/bncby/index.html)
+* `http://onedeveloper.ru/article?id=10`: [http://onedeveloper.ru/article?id=10](http://onedeveloper.ru/article?id=10)
+* `http://rtfm.co.ua/tomcat-ogranichenie-dostupa-s-pomoshhyu-fajla-web-xml/`: [http://rtfm.co.ua/tomcat-ogranichenie-dostupa-s-pomoshhyu-fajla-web-xml/](http://rtfm.co.ua/tomcat-ogranichenie-dostupa-s-pomoshhyu-fajla-web-xml/)
+* `http://docs.oracle.com/javaee/5/tutorial/doc/bnbxj.html`: [http://docs.oracle.com/javaee/5/tutorial/doc/bnbxj.html](http://docs.oracle.com/javaee/5/tutorial/doc/bnbxj.html)
+* `http://secappdev.org/handouts/2009/JEE%20security.pdf`: [http://secappdev.org/handouts/2009/JEE%20security.pdf](http://secappdev.org/handouts/2009/JEE%20security.pdf)
+* `Java Web Security`: [Java Web Security](http://ru.stackoverflow.com/questions/322743/java-web-security)
+* `Login and Registration Example in JSP with Session`: [Login and Registration Example in JSP with Session](http://javaknowledge.info/login-and-registration-example-in-jsp-with-session/)
+* `http://docs.oracle.com/cd/E19159-01/819-3669/bncby/index.html`: [http://docs.oracle.com/cd/E19159-01/819-3669/bncby/index.html](http://docs.oracle.com/cd/E19159-01/819-3669/bncby/index.html)
+* `http://docs.oracle.com/javaee/6/tutorial/doc/glxce.html`: [http://docs.oracle.com/javaee/6/tutorial/doc/glxce.html](http://docs.oracle.com/javaee/6/tutorial/doc/glxce.html)
+
+
 Java EE 6: Securing Web Applications
 ====================================
 
@@ -54,3 +72,17 @@ Java EE 6: Securing Web Applications
 * `web.xml Servlet Configuration`: [web.xml Servlet Configuration](http://tutorials.jenkov.com/java-servlets/web-xml.html)
 * `web.xml Servlet Configuration`: [web.xml Servlet Configuration](http://docs.oracle.com/cd/E13222_01/wls/docs92/webapp/configureservlet.html#wp156049)
 * `web.xml Servlet Configuration`: [web.xml Servlet Configuration](http://docs.oracle.com/cd/E13222_01/wls/docs92/webapp/configureservlet.html)
+
+
+* `http://www.javacodegeeks.com/2012/06/java-jaas-form-based-authentication.html`:
+* `https://localhost:4321/security/test`:
+* `Adding authentication`: [Adding authentication](https://www.playframework.com/documentation/2.1.0/JavaGuide4)
+* `http://www.javaworld.com/article/2076292/core-java/secure-a-web-application--java-style.html?page=2`: [http://www.javaworld.com/article/2076292/core-java/secure-a-web-application--java-style.html?page=2](http://www.javaworld.com/article/2076292/core-java/secure-a-web-application--java-style.html?page=2)
+
+
+что такое Bean?
+======================================
+
+* `http://javatalks.ru/topics/35348`: [http://javatalks.ru/topics/35348](http://javatalks.ru/topics/35348)
+* `http://www.programmer-lib.ru/act_page.php?id=23`: [http://www.programmer-lib.ru/act_page.php?id=23](http://www.programmer-lib.ru/act_page.php?id=23)
+* `http://www.sql.ru/forum/901314/zachem-v-j2ee-prilozheniyah-nuzhen-manifest-class-path`: [http://www.sql.ru/forum/901314/zachem-v-j2ee-prilozheniyah-nuzhen-manifest-class-path](http://www.sql.ru/forum/901314/zachem-v-j2ee-prilozheniyah-nuzhen-manifest-class-path)
